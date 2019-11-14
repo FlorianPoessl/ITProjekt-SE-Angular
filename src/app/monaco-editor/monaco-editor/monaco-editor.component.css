@@ -1,0 +1,44 @@
+.my-code-editor {
+  height: 100%;
+}
+
+.consoleStyle {
+    background-color: black;
+    overflow: auto;
+    overflow-x: false;
+    height: 100px;
+    color: white;
+    margin: 5px 5px 5px 5px;
+}
+
+.btnGeneral {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.btnExecute {
+  margin: 2px 2px 10px 20px;
+  background-color: #0D7FF2;
+  color: white;
+  border-color: #0D7FF2;
+}
+
+.btnFormat {
+  margin: 2px 2px 10px 10px;
+  background-color: #1C8A01;
+  color: white;
+  border-color: #1C8A01;
+}
+
+.btnExecuteCommand {
+  margin: 2px 2px 10px 10px;
+  background-color: #41018A;
+  color: white;
+  border-color: #41018A;
+}
+
+.selectCustom {
+  margin: 6px 2px 10px 10px;
+  font-size: 16px;
+}
+
